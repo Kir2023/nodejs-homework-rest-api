@@ -4,3 +4,7 @@ node_modules/
 .idea
 .vscode
 config.js
+tmp/*
+!tmp/.gitkeep
+public/avatars/*
+!public/avatars/.gitkeep
